@@ -16,7 +16,15 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 The data set contains the following diseases:
 
-![datasetdf](https://github.com/kshitij-raj/Melanoma-Skin-Cancer-Detection/blob/f143d178495ec6490ce2ee18c4cbbfb2e1388cea/Readme_images/Datasetdf.png)
+1) Actinic keratosis
+2) Basal cell carcinoma
+3) Dermatofibroma
+4) Melanoma
+5) Nevus
+6) Pigmented benign keratosis
+7) Seborrheic keratosis
+8) Squamous cell carcinoma
+9) Vascular lesion
 
 ![datasetplot](https://github.com/kshitij-raj/Melanoma-Skin-Cancer-Detection/blob/f143d178495ec6490ce2ee18c4cbbfb2e1388cea/Readme_images/DatasetPlot.png)
 
